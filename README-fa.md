@@ -1,3 +1,7 @@
+# این نگارش بایگانی شده لطفا به نگارش جدید مراجعه کنید: 
+<a href="https://github.com/4xmen/xshop.v1"> xshop v2 </a>
+
+
 <div align="center">
     <img src="media/xstack-shop-logo.svg" alt="xshop logo" width="600">
 </div>
